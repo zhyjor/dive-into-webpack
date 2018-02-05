@@ -49,7 +49,7 @@ require(['gitbook'], function (gitbook) {
           return;
         }
       }
-      showModal(html, closeable);
+      // showModal(html, closeable);
     }
 
     // 事件监听检查
